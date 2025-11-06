@@ -74,7 +74,7 @@ export const ProjectData: ProjectType[] = [
     ],
     github: "https://github.com/Ang-Kimsor/Explore-Trails",
     live: "https://exploretrails.vercel.app/",
-    technologies: ["HTML", "CSS", "JavaScript"],
+    technologies: ["HTML", "CSS"],
     category: "frontend",
   },
   {
