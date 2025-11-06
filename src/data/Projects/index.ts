@@ -161,8 +161,8 @@ export const ProjectData: ProjectType[] = [
       "It embraces best practices like component-based architecture and responsive design.",
       "Collaborated in a pair of 2 members to plan, design, and develop the site",
     ],
-    github: "https://github.com/Kimsor1111/PteasDecor",
-    live: "https://pteasdecor.netlify.app/",
+    github: "https://github.com/Ang-Kimsor/PteasDecor",
+    live: "https://pteasdecor.vercel.app/",
     technologies: [
       "HTML",
       "CSS",
