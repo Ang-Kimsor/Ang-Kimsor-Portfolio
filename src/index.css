@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "Raleway";
+  src: url("./assets/fonts/Raleway.ttf");
+}
+@font-face {
+  font-family: "Exo";
+  src: url("./assets/fonts/Exo.ttf");
+}
+::-webkit-scrollbar {
+  display: none;
+}
+* {
+  font-family: "Raleway";
+}
+.font-exo {
+  font-family: "Exo" !important;
+}
